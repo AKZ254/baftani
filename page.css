@@ -1,0 +1,30 @@
+.gallery{
+    display: inline-block;
+    border: 1px black;
+    margin: 10px;
+}
+.gallery:hover{
+    border: 1px solid;
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+.gallery2{
+    display: inline-block;
+    border: 1px black;
+    margin: 10px;
+}
+.gallery2:hover{
+    border: 1px solid;
+}
+.gallery2 img{
+    width: 100%;
+    height:fit-content;
+    max-width: 100%;
+}
+button{
+    width: 100px;
+    font-size: x-large;
+}

@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+    margin:3em;
+}
+.hame{ 
+    display: flex;
+    column-gap: 20px;
+}
+h2{
+    font-size:xx-large;
+}
+.dragon{
+    max-width:fit-content;
+    background-color: beige;
+    padding: 1em;
+    box-shadow: 4px 4px #e1e1e1;
+
+}
+.dragon img{
+    max-width: 100%;
+}
+.dragon button{
+    background-color: black;
+    color: #e1e1e1;
+    border: none;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+}
+.dragon:hover{
+    color: black;
+    background-color: white;
+}
+.nahang{
+    max-width:fit-content;
+    background-color: beige;
+    padding: 1em;
+    box-shadow: 5px 5px #e1e1e1;
+}
+.nahang:hover{
+    color: black;
+    background-color: white;
+}
+.nahang img{
+    max-width: 100%;
+}.nahang button{
+    background-color: black;
+    color: #e1e1e1;
+    border: none;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+}
